@@ -20,6 +20,7 @@ namespace ConsoleProgram
             b = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine($"Результат деления {a} на {b} равняется: {a / b}");
+            
         }
     }
 }
