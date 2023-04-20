@@ -22,4 +22,4 @@ namespace ConsoleProgram
             Console.WriteLine($"Результат деления {a} на {b} равняется: {a / b}");
         }
     }
- }
+}
