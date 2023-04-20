@@ -19,7 +19,7 @@ namespace ConsoleProgram
             Console.WriteLine("Введите второе число: ");
             b = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine($"Результат деления {a} на {b} равняется: {a / b}");
+            Console.WriteLine($"Результат деления {a} на {b} равняется: {a / b} ");
         }
     }
 }
