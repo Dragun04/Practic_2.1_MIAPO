@@ -11,15 +11,15 @@ namespace ConsoleProgram
         public static void Divisin()
         {
             double a = 0;
-            double c = 0;
+            double b = 0;
             
             Console.WriteLine("Введите первое число: ");
             a = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Введите второе число: ");
-            c = Convert.ToDouble(Console.ReadLine());
+            b = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine($"Результат деления {a} на {c} равняется: {a / c}");
+            Console.WriteLine($"Результат деления {a} на {b} равняется: {a / b}");
         }
     }
 }
